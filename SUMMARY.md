@@ -157,7 +157,7 @@
     * [13. interceptor](lecture-study/spring-springboot/13.-interceptor.md)
     * [14. file](lecture-study/spring-springboot/14.-file.md)
     * [15. ajax](lecture-study/spring-springboot/15.-ajax.md)
-* [PERSONAL STUDY](personal-study/README.md)
+* [PERSONAL STUDY](personal-study.md)
   * [JAVA](personal-study/java/README.md)
     * [반복문](personal-study/java/undefined.md)
     * [배열](personal-study/java/undefined-1.md)

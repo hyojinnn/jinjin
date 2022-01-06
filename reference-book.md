@@ -1,5 +1,5 @@
 ---
-description: 프로젝트를 하면서 참고한 서적
+description: 프로젝트를 하면서 참고한 서적리스트
 ---
 
 # REFERENCE BOOK
