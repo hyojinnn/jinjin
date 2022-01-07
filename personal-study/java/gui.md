@@ -121,7 +121,7 @@
 
 &#x20; \- if) 한 줄에 모두 배치하지 못한다면 다음 줄에 연속하여 배열
 
-![](<../../.gitbook/assets/image (1).png>)
+![](<../../.gitbook/assets/image (2).png>)
 
 
 
@@ -149,7 +149,7 @@
 
 &#x20;  \- void add(Component comp, int index)
 
-![](<../../.gitbook/assets/image (2).png>)
+![](<../../.gitbook/assets/image (3).png>)
 
 
 
@@ -171,4 +171,4 @@
 
 &#x20;  \- GridLayout(int rows, int cols, int hgap, int vgap)
 
-![](<../../.gitbook/assets/image (3).png>)
+![](<../../.gitbook/assets/image (5).png>)
