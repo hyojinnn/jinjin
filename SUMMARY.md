@@ -162,4 +162,5 @@
     * [배열](personal-study/java/undefined-1.md)
     * [클래스](personal-study/java/undefined-2.md)
     * [상속](personal-study/java/undefined-3.md)
+    * [인터페이스](personal-study/java/undefined-4.md)
 * [REFERENCE BOOK](reference-book.md)
