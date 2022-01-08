@@ -4,7 +4,7 @@ description: 안녕하세요. 하루하루 발전하는 개발자 양효진입�
 
 # 👩 PROFILE
 
-![](.gitbook/assets/KakaoTalk\_20220103\_182932806.jpg)
+![](.gitbook/assets/효진증명.jpg)
 
 **👩‍🎓 강릉원주대학교 유아교육학과 졸업** &#x20;
 
@@ -19,3 +19,5 @@ description: 안녕하세요. 하루하루 발전하는 개발자 양효진입�
 &#x20;**⚒  SKILLS**
 
 ![](.gitbook/assets/skills.PNG)
+
+{% file src=".gitbook/assets/양효진포트폴리오.pdf" %}
