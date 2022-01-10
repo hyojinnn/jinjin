@@ -174,4 +174,5 @@
     * [model modelandview](personal-study/spring/model-modelandview.md)
     * [redirect / forward](personal-study/spring/redirect-forward.md)
   * [AWS 설치방법](personal-study/aws.md)
+  * [AWS](personal-study/aws-1.md)
 * [REFERENCE BOOK](reference-book.md)
