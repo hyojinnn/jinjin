@@ -175,4 +175,5 @@
     * [redirect / forward](personal-study/spring/redirect-forward.md)
   * [AWS 설치방법](personal-study/aws.md)
   * [AWS](personal-study/aws-1.md)
+  * [리눅스 명령어](personal-study/undefined.md)
 * [REFERENCE BOOK](reference-book.md)
