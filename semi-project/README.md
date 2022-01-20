@@ -1,3 +1,7 @@
+---
+description: 협업툴 사이트 관련 프로젝트
+---
+
 # SEMI PROJECT
 
 ✅ 프로젝트 소개
